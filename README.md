@@ -9,6 +9,8 @@ This project aims to design a density-based traffic management system using Ardu
 * Power supply (e.g. 9V battery)  
 
 ## Circuit Diagram
+![image](https://user-images.githubusercontent.com/88252440/209839370-793e26df-ecb4-49a0-8746-0d256cd52c83.png)
+
 
 ## Code
 The code for this project is written in the Arduino programming language and can be found in the main.ino file.
